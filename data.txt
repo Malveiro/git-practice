@@ -1,3 +1,4 @@
 data.txt  
 Name:Ironhacker 
 Favorite color:blue 
+Age:20
